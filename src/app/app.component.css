@@ -1,0 +1,80 @@
+.fondo {
+    min-height: 100vh;
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+  }
+label {
+  display: block;
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+
+
+
+#navbar{
+  display: flex;
+  justify-content: center;
+}
+
+
+
+#imagen1{
+  background-image: url("/assets/LLAMALESS_ILLUS-55.png");
+  min-height: 70vh;
+  background-size: cover;
+  background-position: center;
+}
+
+#infoimagen1{
+  color: aliceblue;
+  display: flex;
+  justify-content: center;
+  padding-top: 9%;
+  }
+
+
+
+#imagen2{
+ background-color:black;
+ background-size:cover;
+ min-height: 75vh
+}
+
+#infoimagen2{
+  display: flex;
+  justify-content: center;
+  padding-top: 5%;
+  }
+#infoimagen2 h1{
+  font-size:350%;
+}
+
+
+
+#toursp{
+  padding-top: 20%;
+}
+#toursp p{
+  padding-top: 20%;
+}
+
+#primero{
+  display: flex;
+  justify-content: center;
+
+}
+
+
+#enviar{
+  display: flex;
+  justify-content: center;
+
+}
+
+#botonmedio{
+  display: flex;
+  justify-content: center;
+  padding-top: 25%;
+  
+}
